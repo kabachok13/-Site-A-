@@ -183,6 +183,11 @@ header {
 
 .feedback input[type="radio"] {
     margin-right: 15px;
+    cursor: pointer;
+}
+
+.feedback label {
+    cursor: pointer;
 }
 
 .feedback label[for="man"] {
